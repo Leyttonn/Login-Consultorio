@@ -1,0 +1,11 @@
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\bin\Debug\Login.exe.config
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\bin\Debug\Login.exe
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\bin\Debug\Login.pdb
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\obj\Debug\Login.Login.resources
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\obj\Debug\Login.exe
+C:\Users\Leyttonn\Desktop\Privado\C#\Login\obj\Debug\Login.pdb
